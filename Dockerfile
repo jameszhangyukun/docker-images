@@ -1,1 +1,2 @@
-FROM k8s.gcr.io/build-image/kube-cross:v1.24.0-go1.17.7-bullseye.0
+From gcr.io/k8s-prow/deck:v20191219-b8438ff62
+Maintainer 479100885@qq.com
